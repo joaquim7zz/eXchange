@@ -13,5 +13,4 @@
   As taxas de câmbio são obtidas em tempo real, e o código utiliza <code>HttpClient</code> para chamadas HTTP 
   e a biblioteca <code>Gson</code> para leitura dos dados JSON.
 </p>
-# eXchange
-# eXchange
+
